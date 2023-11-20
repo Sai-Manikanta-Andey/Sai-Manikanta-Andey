@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there 👋 <br><br>🔭 Currently working on food delivery app 🏃.<br>👯 Frontend related project collaboration✅.<br>🤝 Actually I'm looking for a frontend role 👀.<br>🌱 I’m currently learning react 📈.<br>✉️ Mail : sai.manikanta.andey@gmail.com<br>🔥 Portfolio : https://sai-manikanta-andey.netlify.app/
+Hey there 👋 <br><br>🔭 Currently working on car rental app 🏃.<br>👯 Frontend related project collaboration✅.<br>🤝 Looking for a frontend role 👀.<br>🌱 I’m currently learning react 📈.<br>✉️ Mail : sai.manikanta.andey@gmail.com<br>🔥 Portfolio : https://sai-manikanta-andey.netlify.app/
 
 
 ## 🌐 Socials:
