@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hey there 👋 <br><br>🔭 I'm a self-taught frontend developer💻.<br>👯 Frontend related project collaboration✅.<br>🤝 Looking for a frontend role 👀.<br>🌱 I’m currently learning backend 📈.
-<br>MERN<br>✉️ Mail : sai.manikanta.andey@gmail.com<br>🔥 Portfolio : https://sai-manikanta-andey.netlify.app/
+<br>Stack : MERN<br>✉️ Mail : sai.manikanta.andey@gmail.com<br>🔥 Portfolio : https://sai-manikanta-andey.netlify.app/
 
 
 ## 🌐 Socials:
