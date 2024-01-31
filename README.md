@@ -1,6 +1,7 @@
 # 💫 About Me:
 Hey 👋 <br><br>🔭 I'm a self-taught frontend developer💻.<br>👯 Frontend related project collaboration✅.<br>🤝 Looking for a frontend role👀.<br>🌱 I’m currently learning backend📈.
 <br>✉️ Mail : sai.manikanta.andey@gmail.com<br>🔥 Portfolio : https://sai-manikanta-andey.netlify.app/
+2024 Frontend-} Backend -} Fullstack 🤩
 
 
 ## 🌐 Socials:
