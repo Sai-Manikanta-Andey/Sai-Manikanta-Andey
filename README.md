@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there👋 <br><br>🔭 I'm a self-taught frontend developer and future fullstack developer😉.<br>👯 Frontend related project collaboration✅.<br>🤝 Looking for a frontend role👀.<br>🌱 I’m currently learning backend📈.
+Hey 👋 <br><br>🔭 I'm a self-taught frontend developer and future fullstack developer😉.<br>👯 Frontend related project collaboration✅.<br>🤝 Looking for a frontend role👀.<br>🌱 I’m currently learning backend📈.
 <br>✉️ Mail : sai.manikanta.andey@gmail.com<br>
 
 
