@@ -1,15 +1,60 @@
-# 💫 About Me :
-Hey 👋 <br><br>🔭 I'm a self-taught fullstack developer😉.<br>👯 Frontend related project collaboration✅.<br>🤝 Open for frontend, fullstack roles 👀.<br>🌱 I’m currently learning backend 💀📈.
-<br>✉️ Mail: sai.manikanta.andey@gmail.com<br>
+<h1 align="left">Hey 👋</h1>
 
+###
 
+<h2 align="left">🚀 I'm SMK aka Sai Manikanta Andey, a Frontend Sorcerer 🧙‍♂️</h2>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-manikanta-andey/) 
+###
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
- ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Bringing pixels to life and weaving code into captivating experiences is my jam!<br>📚 I'm currently learning backend<br>✉️ Mail: sai.manikanta.andey@gmail.com<br>🧑‍🏫 Portfolio: https://sai-manikanta-andey.netlify.app/</p>
+
+###
+
+<h2 align="left">🔧 Armed with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+</div>
+
+###
+
+<h2 align="left">Social 🌐</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/sai-manikanta-andey/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+###
 # 📊 GitHub Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sai-Manikanta-Andey&theme=react&hide_border=false)<br/>
