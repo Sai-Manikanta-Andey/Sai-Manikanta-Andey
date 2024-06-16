@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ I Bringing pixels to life !<br>📚 I'm currently learning backend<br>✉️ Mail: sai.manikanta.andey@gmail.com<br>🧑‍🏫 Portfolio: https://sai-manikanta-andey.netlify.app/</p>
+<p align="left">✨ I Bringing pixels to life !<br>📚 I'm currently learning backend<br>✉️ Mail: sai.manikanta.andey@gmail.com<br>🧑‍🏫 Portfolio : https://sai-manikanta-andey.netlify.app/</p>
 
 ###
 
