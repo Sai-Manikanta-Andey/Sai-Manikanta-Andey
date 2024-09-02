@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">🚀 I'm SMK aka Sai Manikanta Andey, a Frontend Sorcerer 🧙‍♂️</h2>
+<h2 align="left">🚀 I'm Sai Manikanta Andey, a Frontend Sorcerer 🧙‍♂️</h2>
 
 ###
 
