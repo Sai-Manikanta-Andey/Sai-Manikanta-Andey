@@ -60,7 +60,10 @@
   <img src="https://skillicons.dev/icons?i=vite" height="50" alt="vite logo"  />
 </div>
 
+<h2 align="left">Social Links</h2>
+
 ###
+
 
 <div align="left">
   <a href="https://www.linkedin.com/in/sai-manikanta-andey/" target="_blank">
